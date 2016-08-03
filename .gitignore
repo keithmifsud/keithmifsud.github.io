@@ -1,8 +1,6 @@
 _skeletons_readme.md
-
-
-
-.DS_Store
 _site
 node_modules
+npm-debug.log
+.DS_Store
 _drafts
