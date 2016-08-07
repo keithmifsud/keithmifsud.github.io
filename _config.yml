@@ -36,5 +36,7 @@ links:
   - title: About Me
     url: /about
 
-# exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+
+
+# exclude development, dev info and notes from building.
+exclude: ['package.json', 'src', 'node_modules', '_notes']

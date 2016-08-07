@@ -2,6 +2,7 @@ _site
 node_modules
 _drafts
 _examples
+_notes
 npm-debug.log
 .DS_Store
 
