@@ -120,18 +120,18 @@ a {
                 &:hover {
                     /* color: rgba($font-color, 0.8); */
                     outline: none;
-                    background-color: rgba($font-color, 0.3);
+                    background-color: rgba($navitem-hover-bg-color, 0.3);
                 }
                 &:focus,
                 &:active {
                     outline: none;
-                      background-color: rgba($font-color, 0.3);
+                      background-color: rgba($navitem-active-bg-color, 0.3);
                 }
             }
             &.active {
                 outline: none;
                 a {
-                    background-color: rgba($font-color, 0.3);
+                    background-color: rgba($navitem-active-bg-color, 0.3);
                     &:hover {
                         color: $navbar-color;
                     }

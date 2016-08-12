@@ -16,7 +16,7 @@ baseurl:
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-81858075-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,19 +29,21 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Keith Mifsud"
+title: "Keith Mifsud - Software and Embedded Systems Engineer"
+description: "Software and Embedded Systems Engineer. Loves coding, improving processes, automation and keeping lists. Deep Learning and Quantum Computing enthusiast."
+keywords: "keith, mifsud, keith mifsud, solutions emgn, theme"
 favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+header-text: "Keith Mifsud"
 
-background-img: "../img/intro-bg.jpg"
+black-favicon: False # "/img/black-lab-glass.ico"
+
+background-img: "../img/amstedam_by_night.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,10 +57,11 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Thank you for visiting my website .."
+  - text: ".. I enjoy coding, improving processes, building strategies and keeping lists ..."
+  - text: ".. an enthusiast of Deep Learning and Quantum Computing."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/blog-author.jpg"
 
 ##############################
 # Color the browser elements #
@@ -102,7 +105,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "disqus_aZaw6EGryB"
 
 syntax-highlight: True
 
@@ -126,7 +129,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "mifsud.k@gmail.com"
 
 ################
 # Author Blurb #
@@ -136,8 +139,8 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb: "Enjoys coding, improving processes and keeping lists. Is also an enthusiast of Deep Learning and Quantum Computing"
+author_blurb_image: "/img/blog-author.jpg"
 
 ##################
 # Social Buttons #
@@ -145,15 +148,15 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://www.facebook.com/mifsudKeith"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/keithmifsud"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/keithmifsud"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+#  - title: "rss"
+#    url: "/feed.xml"
 
 ############
 # 404 page #
@@ -166,8 +169,8 @@ social:
 ##################
 
 keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
@@ -176,9 +179,9 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
+#  About: 'about'
+#  Blog: 'latest-post'
+#  Timeline: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site

@@ -1,5 +1,13 @@
 // Variables
 
+// My Palette
+
+$myrtleGreen: #2C6072;
+$inchWorm: #B5F44A;
+$darkTerraCotta: DB5461;
+$dimGray: #686963;
+$cadetGrey: #8AA29E;
+
 // Main color
 $primary-color: #000;
 
@@ -17,5 +25,7 @@ $navbar-color: $font-color;
 $navbar-lg-collapse-background-color: $header-background-color;
 $navbar-lg-background: transparent;
 $navbar-sm-background-color: $navbar-lg-collapse-background-color;
+$navitem-hover-bg-color: $primary-color;
+$navitem-active-bg-color: $font-color;
 
 $social-buttons-color: $secondary-color;
