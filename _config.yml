@@ -1,11 +1,13 @@
 # Site settings
-description: Software and Embedded Systems Engineer. Love coding, improving business processes, automation and keeping lists. Deep Learning and Quantum Computing enthusiast.
+description: Software and Embedded Systems Engineer. Loves coding, improving processes, automation and keeping lists. Deep Learning and Quantum Computing enthusiast.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://keith-mifsud.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
+lang: "en"
+
 # User settings
 username: Keith Mifsud
-user_description: Loves coding, improving Business processes, cooking and an enthusiast on Deep Learning and Quantum Computing.
+user_description: Loves coding, improving processes, cooking and an enthusiast on Deep Learning and Quantum Computing.
 user_title: Software and Embedded Systems Engineer.
 email: mifsud.k@gmail.com
 twitter_username: keithmifsud
