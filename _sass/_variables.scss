@@ -8,24 +8,37 @@ $darkTerraCotta: DB5461;
 $dimGray: #686963;
 $cadetGrey: #8AA29E;
 
+$dollarBill: #81C141;
+$blackOlive: #393E42;
+$darkImperialBlue: #093E63;
+$pictonBlue: #4BB2FC;
+$aliceBlue: #F3F9FF;
+
 // Main color
-$primary-color: #000;
+$primary-color: $myrtleGreen;
 
 // Anchor color
-$secondary-color: #00cdff;
+$secondary-color: $pictonBlue;
 
 // Font color
-$font-color: #fff;
+$font-color: $aliceBlue;
 
-$navbar-text-shadow: true;
-$header-text-shadow: true;
-$header-background-color: $primary-color;
+
+
+$social-buttons-color: $secondary-color;
+
+// The Header & Intro
+
+$navbar-text-shadow: false;
+$header-text-shadow: false;
+$header-background-color: $darkImperialBlue;
 $intro-text-color: $font-color;
 $navbar-color: $font-color;
 $navbar-lg-collapse-background-color: $header-background-color;
 $navbar-lg-background: transparent;
 $navbar-sm-background-color: $navbar-lg-collapse-background-color;
-$navitem-hover-bg-color: $primary-color;
+$navitem-hover-bg-color: $blackOlive;
 $navitem-active-bg-color: $font-color;
 
-$social-buttons-color: $secondary-color;
+$intro-text-font: "Courier New";
+$intro-text-color: $pictonBlue;

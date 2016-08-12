@@ -32,7 +32,7 @@ lang: "en"
 author: "Keith Mifsud"
 title: "Keith Mifsud - Software and Embedded Systems Engineer"
 description: "Software and Embedded Systems Engineer. Loves coding, improving processes, automation and keeping lists. Deep Learning and Quantum Computing enthusiast."
-keywords: "keith, mifsud, keith mifsud, solutions emgn, theme"
+keywords: "keith, mifsud, keith mifsud, solutions engineer, software, embedded systems"
 favicon: "/img/favicon.ico"
 
 ################
@@ -43,23 +43,26 @@ header-text: "Keith Mifsud"
 
 black-favicon: False # "/img/black-lab-glass.ico"
 
-background-img: "../img/amstedam_by_night.jpg"
+# background-img: "../img/amstedam_by_night.jpg"
 
 ##############################
 # Dynamic Text on the Header #
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
+shuffle: False # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 5000
+delete-delay: 500
 lines: # You can add HTML Tags in the Text
-  - text: "Thank you for visiting my website .."
-  - text: ".. I enjoy coding, improving processes, building strategies and keeping lists ..."
-  - text: ".. an enthusiast of Deep Learning and Quantum Computing."
+  - text: "Hi... I'm Keith, an independent software "
+  - text: "and embedded systems engineer... "
+  - text: "I enjoy coding, automation, strategies ..."
+  - text: "and keeping lists ..."
+  - text: ".. I'm an enthusiast of ..."
+  - text: "Deep Learning and Quantum Computing."
 
 me-img: "/img/blog-author.jpg"
 
@@ -129,7 +132,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "mifsud.k@gmail.com"
+email: "mifsud dot k at gmail dot com"
 
 ################
 # Author Blurb #
