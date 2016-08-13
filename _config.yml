@@ -76,7 +76,7 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
@@ -108,7 +108,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "disqus_aZaw6EGryB"
+disqus-shortname: "keith-mifsud"
 
 syntax-highlight: True
 
