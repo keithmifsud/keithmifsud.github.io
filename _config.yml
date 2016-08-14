@@ -135,8 +135,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "mifsud.k@gmail.com"
-email-text: "Inbox me"
+email: "me@keith-mifsud.com"
 
 ################
 # Author Blurb #
@@ -162,10 +161,10 @@ social:
     url: "https://github.com/keithmifsud"
 #  - title: "bitcoin"
 #    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
   - title: "google-plus"
     url: "https://plus.google.com/100921743408799501015"
+  - title: "rss"
+    url: "/feed.xml"
 
 ############
 # 404 page #
