@@ -58,12 +58,14 @@ start-delay: 200
 delete-delay: 500
 lines: # You can add HTML Tags in the Text
   - text: "Hi, I'm Keith..."
-  - text: "an independent software "
-  - text: "and embedded systems engineer... "
-  - text: "I enjoy coding, automation, strategies ..."
+  - text: "an independent software and"
+  - text: "embedded systems engineer... "
+  - text: "I enjoy coding, automation,"
+  - text: "strategy design ..."
   - text: "and keeping lists ..."
   - text: ".. I'm an enthusiast of ..."
-  - text: "Deep Learning and Quantum Computing."
+  - text: "Deep Learning and ...."
+  - text: "Quantum Computing."
 
 me-img: "/img/blog-author.jpg"
 
@@ -133,7 +135,8 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "mifsud dot k at gmail dot com"
+email: "mifsud.k@gmail.com"
+email-text: "Inbox me"
 
 ################
 # Author Blurb #
@@ -159,8 +162,10 @@ social:
     url: "https://github.com/keithmifsud"
 #  - title: "bitcoin"
 #    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-#  - title: "rss"
-#    url: "/feed.xml"
+  - title: "rss"
+    url: "/feed.xml"
+  - title: "google-plus"
+    url: "https://plus.google.com/100921743408799501015"
 
 ############
 # 404 page #
