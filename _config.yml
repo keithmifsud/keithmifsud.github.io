@@ -57,7 +57,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 500
 lines: # You can add HTML Tags in the Text
-  - text: "Hi... I'm Keith, an independent software "
+  - text: "Hi, I'm Keith..."
+  - text: "an independent software "
   - text: "and embedded systems engineer... "
   - text: "I enjoy coding, automation, strategies ..."
   - text: "and keeping lists ..."
@@ -69,8 +70,8 @@ me-img: "/img/blog-author.jpg"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
+color-browser: "#093E63"
+apple-status-bar-style: "#093E63"
 
 ################
 # Web app mode #
