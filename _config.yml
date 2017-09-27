@@ -187,7 +187,7 @@ keybase-in-footer: False
 # Sections shown in the index page
 
 pages_list:
-#  About: 'about'
+  About: 'about'
 #  Blog: 'latest-post'
 #  Timeline: 'timeline'
   Hire Me: 'hire-me'
