@@ -188,7 +188,7 @@ keybase-in-footer: False
 
 pages_list:
   About: 'about'
-#  Blog: 'latest-post'
+  Blog: 'https://keith-mifsud.me/blog'
 #  Timeline: 'timeline'
   Hire Me: 'hire-me'
   Contact: 'contact'
